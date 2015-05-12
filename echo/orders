@@ -27,5 +27,5 @@ export BUILDPACK_URL="https://github.com/glg/heroku-buildpack-nodejs.git#caching
 beta beep /echo/beep
 beta boop /echo/boop
 
-redirect_to kw3.test.com http://github.com
+redirect_to kw2.test.com http://github.com
 redirect_to kw4.test.com http://github.com
